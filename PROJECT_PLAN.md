@@ -1,7 +1,7 @@
-# TheWiseMow/handy - Voice Commands Feature
+# TheWiseMow/Voco - Voice Commands Feature
 
 ## Overview
-Fork of cjpais/Handy with AI-powered voice commands for hands-free development.
+Fork of cjpais/Voco with AI-powered voice commands for hands-free development.
 
 ## Features to Add
 
@@ -61,5 +61,5 @@ Auto-detect project type:
 - [ ] Add voice input integration
 
 ## GitHub
-- Repo: TheWiseMow/handy
+- Repo: TheWiseMow/Voco
 - Need: Don to create repo or fix token permissions

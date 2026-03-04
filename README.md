@@ -1,4 +1,4 @@
-# TheWiseMow/handy
+# TheWiseMow/Voco
 
 Fork of [cjpais/Handy](https://github.com/cjpais/Handy) with AI-powered voice commands for developers.
 
@@ -32,15 +32,15 @@ This fork adds:
 
 ```bash
 # Clone
-git clone https://github.com/TheWiseMow/handy.git
-cd handy
+git clone https://github.com/TheWiseMow/Voco.git
+cd Voco
 
 # Install deps
 bun install
 
 # Download models
 mkdir -p src-tauri/resources/models
-curl -o src-tauri/resources/models/silero_vad_v4.onnx https://blob.handy.computer/silero_vad_v4.onnx
+curl -o src-tauri/resources/models/silero_vad_v4.onnx https://blob.Voco.computer/silero_vad_v4.onnx
 
 # Run dev
 bun run tauri dev
